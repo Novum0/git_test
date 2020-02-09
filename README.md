@@ -1,1 +1,1 @@
-This id EO's first Git project!
+This is EO's first Git project!
